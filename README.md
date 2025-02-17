@@ -3,4 +3,4 @@
 
 Meu primeiro repositório feito em estudo ao Curso em Vídeo
 
-Acesse <a href="https://gabrieloliveira-hub.github.io/projeto-android/" target="_blank">aqui</a> Meu Projeto hehe
+Acesse <a href="https://garibell.github.io/projeto-android/" target="_blank">aqui</a> Meu Projeto hehe
